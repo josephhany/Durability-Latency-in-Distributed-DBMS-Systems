@@ -1,4 +1,4 @@
-To access a specific node in tempo cluster
+To access a specific node in tembo cluster
 ```
 ssh -t username@tembo.cs.uwaterloo.ca ssh tem#
 ```
