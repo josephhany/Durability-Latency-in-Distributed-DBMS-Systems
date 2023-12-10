@@ -31,7 +31,7 @@ sudo cp -i cockroach-v23.1.12.linux-amd64/lib/libgeos_c.so /usr/local/lib/cockro
 which cockroach
 ```
 
-# With a geo-distributed cluster in 3 regions with the follwoing configuration:
+## With a geo-distributed cluster in 3 regions with the follwoing configuration:
 
 ### Region 1 (US-West):
 - tem08 (192.168.152.108)
